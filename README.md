@@ -1,8 +1,8 @@
 # Project Name : Quantum Portfolio Optimization with PennyLane
 
-## Team Name : Rosalyn Yeldo  
+# Team Name : RY 
 
-## Team Members & WISER Enrollment IDs  
+Team Members & WISER Enrollment IDs  
 - Rosalyn Yeldo - gst-VWNmCG4gXLfEwC4
 
 ---
