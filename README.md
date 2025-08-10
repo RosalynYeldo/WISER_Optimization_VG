@@ -22,3 +22,4 @@ Due to current quantum hardware limitations, the implementation was tested on a 
 ---
 
 ## Presentation Deck 
+https://github.com/RosalynYeldo/WISER_Optimization_VG/blob/main/quantum_portfolio_optimization.pptx
